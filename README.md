@@ -1,7 +1,10 @@
 [![DOI](https://zenodo.org/badge/729667541.svg)](https://zenodo.org/doi/10.5281/zenodo.10404382)
 # bootcamp-final-project-thku8507
  Final project - grassland habitat suitability model
- 
+
+Link to .ipynb notebook: https://drive.google.com/file/d/1nh0LC9N-uVWOk88vKPAKosSG8mSiOLwZ/view?usp=drive_link
+(file size exceeds github limit of 25 MB)
+
 Climate change is driving species ranges to shift as plants and animals adapt to a changing landscape of temperature, precipitation and disturbance patterns. Predicting where, when and how habitat ranges allows land managers to proactively manage for vulnerable species and adapt to climate change.  
 
 Sorghastrum nutans, commonly known as indiangrass, is one of the dominant grasses throughout the Great Plains’ tallgrass prairie (Towne 2002). Growing up to eight feet tall, this species is characteristic of deep-rooted grasses that cover grasslands from the Rocky Mountains to the east coast of the United States. In recent decades S. nutans has shifted its range northward by expanding further into the high and northern plains. As a dominant species, S. nutans may displace other grasses and change grassland ecosystem structure as it expands into new territory. 
