@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/729667541.svg)](https://zenodo.org/doi/10.5281/zenodo.10404382)
 # bootcamp-final-project-thku8507
  Final project - grassland habitat suitability model
  
@@ -9,5 +10,3 @@ To better understand how S. nutans prevalence may change in the century to come,
 
 The code for this project is in final-project-thku8507.ipynb. This notebook will run using the earth-analytics-python environment. The user also needs to install scikit-fuzzy using the following code:
 conda install -c conda-forge scikit-fuzzy
-
-[![DOI](https://zenodo.org/badge/729667541.svg)](https://zenodo.org/doi/10.5281/zenodo.10404382)
